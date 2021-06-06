@@ -1,27 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Moda%20Bodoni);
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  font-family: 'Bodoni Moda'
+}
+
 body {
-  background-color: white;
-  font-family: Arial;
-  width: 100%;
+  font-family: 'Roboto';
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.masthead {
+  background: #d5d7db;
+  padding-left: 24px;
+  font-size: 14px;
+}
+
+.header {
+  background-color: #363f62;
+  padding: 24px;
+  text-align: center;
+  color: white;
 }
 
 section {
   padding: 24px;
-}
-
-h1 {
-  font-weight: bold;
-}
-
-.masthead {
-  background: lightgray;
-  padding-left: 24px;
-}
-
-.header {
-  background: #f06d06;
-  padding: 24px;
-  text-align: center;
-  color: white;
+  background-color: #f6f6f6;
+  flex-grow: 1;
 }
 
 .card {
@@ -29,7 +37,7 @@ h1 {
 }
 
 footer {
-  border-top: 1px solid black;
-  background: lightgray;
+  background-color: #d5d7db;
   padding-left: 24px;
+  font-size: 14px;
 }
