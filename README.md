@@ -12,9 +12,7 @@
 
 :raised_hands:&nbsp;&nbsp;&nbsp;Don't worry, we will be starting with a code template and there will be instructions to guide along the way. Should you have any questions or doubts, feel free to reach out to your amazing mentors.
 
----
-
-## Getting Started
+## GETTING STARTED
 __STEP 1__: Copy the URL `https://github.com/fionnatong/geekout2021` and go to this website using your preferred browser
 
 __STEP 2__: Download the codebase as a zip file
@@ -29,26 +27,29 @@ __STEP 4__: Open `index.html` using your preferred browser and you should be abl
 
 ![image](https://drive.google.com/uc?export=view&id=1iGizqY4n1oWb8HjcYBlVMczgkMZbCiYG)
 
-## What is inside the code template
+## WHAT IS INSIDE THE TEMPLATE
 
 ### HTML
 
-Grid System:
+Grid System
+
 ![image](https://drive.google.com/uc?export=view&id=13ttmBZR3ZBWLxmzw0S7h1GFCxcc_jqOZ)
 
-Components:
+Components
+
 ![image](https://drive.google.com/uc?export=view&id=1JW5nyc9N7m_pmj63xvI8r5tYDq11xVf-)
 
 ### CSS
+
 ![image](https://drive.google.com/uc?export=view&id=1Hz3AA1fG3RJBtjNGcroAIOhUcBHcmQqE)
 
-## Upload screenshot of your (X)GoWhere website to Trello
+## UPLOAD SCREENSHOT TO TRELLO
 
 Take a screenshot of your website and rename to `(your beautiful name)'s app.png`. Go to [Trello](https://trello.com/b/LezlD5HX/geekout-app-dev-2021) and drag-and-drop the image under your team's column
 
 ![image](https://drive.google.com/uc?export=view&id=1kRNDMHmLn_8x8I-nl42tt43n_Dd-5RQR)
 
-## Bonus: Host your website publicly
+## BONUS: HOST YOUR WEBSITE PUBLICLY
 
 Currently, your website can only be seen by you and only you. If you would like to share your website with your family and friends, you need to host your website on a public domain. Netlify has an option to manually deploy your website to their public domain. You can follow the instructions in the video below (Note: You need to create an account on Netlify)
 
