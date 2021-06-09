@@ -1,11 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 @import url(https://fonts.googleapis.com/css?family=Moda%20Bodoni);
 
-h1, h2, h3, h4, h5, h6 {
-  font-weight: bold;
-  font-family: 'Bodoni Moda'
-}
-
+/* Globals */
 body {
   font-family: 'Roboto';
   min-height: 100vh;
@@ -13,6 +9,12 @@ body {
   flex-direction: column;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  font-family: 'Bodoni Moda'
+}
+
+/* Classes */
 .masthead {
   background: #d5d7db;
   padding-left: 24px;
@@ -26,7 +28,7 @@ body {
   color: white;
 }
 
-section {
+.main {
   padding: 24px;
   background-color: #f6f6f6;
   flex-grow: 1;
@@ -36,7 +38,7 @@ section {
   width: 300px;
 }
 
-footer {
+.footer {
   background-color: #d5d7db;
   padding-left: 24px;
   font-size: 14px;
