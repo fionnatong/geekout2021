@@ -6,7 +6,7 @@
 
 :muscle:&nbsp;&nbsp;&nbsp;Amidst Singapore's fight against the pandemic, the series of GoWhere websites has provided citizens with helpful information on where to obtain essential products or services. An example would be the [SupportGoWhere](https://supportgowhere.life.gov.sg/) website which catalogues a list of government grants for individuals in need of financial support. Other examples include [MaskGoWhere](https://mask.gowhere.gov.sg/) and [FluGoWhere](https://flu.gowhere.gov.sg/).
 
-:ghost:&nbsp;&nbsp;&nbsp;__Our challenge to you is to create your own (X)GoWhere website where (X) can be anything you think might contribute to the 'public good' (e.g. VaccinationGoWhere, MemeGoWhere)__
+:ghost:&nbsp;&nbsp;&nbsp;__Our challenge to you is to create your own (X)GoWhere website where (X) can be anything you think might contribute to the 'public good' (e.g. VaccinationGoWhere, MemeGoWhere...)__
 
 :camera:&nbsp;&nbsp;&nbsp;After you are done building your (X)GoWhere website, take a screenshot and upload it along with your name onto this Trello board here. We will then vote for the website that you like the most.
 
