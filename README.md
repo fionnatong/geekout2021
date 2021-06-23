@@ -17,6 +17,10 @@
 * [Upload Screenshot to Trello](#upload-screenshot-to-trello)
 * [Bonus: Host your Website Publicly](#bonus-host-your-website-publicly)
 
+HTML Cheatsheet: http://www.cheat-sheets.org/saved-copy/html-cheat-sheet.png
+
+CSS Cheatsheet: https://devhints.io/css
+
 ## Getting Started
 __STEP 1__: Copy the URL `https://github.com/fionnatong/geekout2021` and go to this website using your preferred browser
 
